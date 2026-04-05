@@ -1,5 +1,8 @@
 # Excalidraw Workflow
 
+> [!NOTE]
+> Extended functionality on top of [excalidraw-plugin](https://github.com/aryxenv/excalidraw-plugin). This simply adds a layer to use dark mode in the image export from excalidraw-mcp.
+
 A ready-to-use template for creating architecture diagrams with [Excalidraw MCP](https://github.com/patchli/excalidraw-mcp-server) and Copilot CLI.
 
 Ask Copilot to "create an architecture diagram" and it will research your codebase, build the diagram in Excalidraw, and export a PNG.
